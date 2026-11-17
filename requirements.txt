@@ -1,0 +1,16 @@
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+statsmodels
+scikit-learn
+streamlit
+pyarrow
+openpyxl
+joblib
+jupyter
+ipykernel
+kagglehub
