@@ -1,0 +1,4 @@
+category,moving_average_MAPE_pct,holt_winters_MAPE_pct,selected_method
+SET,111.81866471301186,116.0703552983058,7-day Moving Average
+KURTA,142.2510909921222,156.36346942666174,7-day Moving Average
+WESTERN DRESS,565.9172386688632,587.5487495953934,7-day Moving Average

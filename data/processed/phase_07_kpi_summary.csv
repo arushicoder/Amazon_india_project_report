@@ -1,0 +1,13 @@
+Metric,Value
+Unique inventory SKUs,9170.0
+Unique sales SKUs,7195.0
+Inventory SKUs matched with sales,6619.0
+Inventory SKUs matched with pricing,0.0
+Total available stock units,242370.0
+Total units sold in observed period,116649.0
+Stock-out risk SKUs,1345.0
+Dead-stock SKUs,2276.0
+Dead-stock units,43926.0
+SKUs with price gap above 10%,80.0
+Average marketplace price gap (%),1.853332252196625
+Average estimated margin (%),74.23731689283281
